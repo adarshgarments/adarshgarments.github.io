@@ -1,6 +1,6 @@
 {
-    "name": "Adarsh Garments",
-    "short_name": "Adarsh Garments",
+    "name": "adarshgarments",
+    "short_name": "adarshgarments",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
